@@ -14,7 +14,7 @@ A web-based visualization tool for flight log data.
     ```bash
     python log_viewer.py
     ```
-2.  Open your browser at `http://localhost:8000`
+2.  Open your browser at `http://localhost:9999`
 
 ## Structure
 - `log_viewer.py`: Python-based HTTP server and API.
